@@ -47,6 +47,17 @@ python smart_cafe_billing.py
 
 ---
 
+## Project Output
+
+### Menu Display
+![Menu](screenshots/menu_output.png)
+
+### Order Process
+![Order](screenshots/order_process.png)
+
+### Final Bill
+![Bill](screenshots/final_bill.png)
+
 ## Author
 
 Shivam
